@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedBucketCollection", "SortedBucketCollection.csproj", "{7C007EF4-5092-47D4-8286-6165A8558811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C007EF4-5092-47D4-8286-6165A8558811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C007EF4-5092-47D4-8286-6165A8558811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C007EF4-5092-47D4-8286-6165A8558811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C007EF4-5092-47D4-8286-6165A8558811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1841345F-3DA6-41D5-B6E1-08C534C5C3A1}
+	EndGlobalSection
+EndGlobal
